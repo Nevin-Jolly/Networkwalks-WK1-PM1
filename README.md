@@ -70,22 +70,22 @@ Created a snapshot of the configured Kali Linux VM for recovery and future lab a
 
 ## 📸 Screenshots
 
-Add your own screenshots below to document the completed setup.
-
 ### VirtualBox NAT Network
-`![NAT Network](screenshots/nat-network.png)`
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/7f220051-c250-4020-b949-00d418595e30" />
+
 
 ### Kali Linux Virtual Machine
-`![Kali Linux VM](screenshots/kali-vm.png)`
+<img width="1751" height="960" alt="image" src="https://github.com/user-attachments/assets/a090b43d-6f44-43d0-a476-d4a942e39dab" />
+
 
 ### Kali IP Configuration
-`![Kali IP Configuration](screenshots/kali-ip.png)`
+<img width="1748" height="960" alt="image" src="https://github.com/user-attachments/assets/31db9a5d-6ec1-46ab-888b-a783edd5240d" />
+
 
 ### Internet Connectivity
-`![Internet Connectivity](screenshots/internet.png)`
+<img width="1748" height="950" alt="image" src="https://github.com/user-attachments/assets/cb4055a5-2164-4eb0-9356-45f406050552" />
 
-### Shared Folder / VM Settings
-`![Shared Folder](screenshots/shared-folder.png)`
+
 
 ## 📚 What I Learned
 
